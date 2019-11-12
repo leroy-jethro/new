@@ -1,0 +1,9 @@
+VAR
+	speed : REAL;
+	enable : BOOL;
+	count : INT;
+	fb_motor : {REDUND_UNREPLICABLE} FB_Motor;
+	fb_regulator : {REDUND_UNREPLICABLE} FB_Regulator;
+	fb_integrator : {REDUND_UNREPLICABLE} FB_Integrator;
+	fb_motor2 : {REDUND_UNREPLICABLE} FB_Motor;
+END_VAR

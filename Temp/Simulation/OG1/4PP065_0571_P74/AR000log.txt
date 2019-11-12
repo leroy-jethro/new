@@ -1,0 +1,30 @@
+Fri Oct 04 16:26:38 2019
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Fri Oct 04 16:26:38 2019
+No ARsim registration found!
+
+Fri Oct 04 16:26:38 2019
+InstanceName: 01d57ab75a32f330
+
+Fri Oct 04 16:26:38 2019
+WorkingDirectory: C:\Users\admin\Desktop\KRBO-01-16\OG\Temp\Simulation\OG1\4PP065_0571_P74\
+
+Fri Oct 04 16:26:38 2019
+COMMAND_COLDSTART
+
+Fri Oct 04 16:26:41 2019
+Version: D4.52
+
+Fri Oct 04 16:26:53 2019
+COMMAND_TERMINATE
+
+Fri Oct 04 16:26:53 2019
+COMMAND_COLDSTART
+
+Fri Oct 04 16:26:55 2019
+Version: D4.52
+
+Fri Oct 04 16:28:51 2019
+COMMAND_TERMINATE
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tracepoints>
+  <Tracepoint>
+    <Enabled>true</Enabled>
+    <File>Logical/Program/Main.c</File>
+    <Line>16</Line>
+    <Condition></Condition>
+    <Task>Program</Task>
+  </Tracepoint>
+</Tracepoints>
